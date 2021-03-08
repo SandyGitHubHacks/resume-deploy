@@ -15,7 +15,7 @@
       "zip": "121001"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"https://docs.google.com/document/d/12mTkSk1bf9Hglz8yzmIIl9df-JN6iWen/edit",
     "social":[
       {
         "name":"facebook",
@@ -34,7 +34,7 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/sandeep-pal-229b74143/",
         "className":"fa fa-linkedin"
       },
       {
@@ -72,15 +72,9 @@
     ],
     "work":[
       {
-        "company":"IKM Investors",
-        "title":"Junior Software Developer",
-        "years":"March 2019-June-2019",
-        "description":"I work here on C# winform and FileIO and Socket"
-      },
-      {
         "company":"Vinayak Associate",
         "title":"Software Engineer",
-        "years":"July 2019 - Present",
+        "years":"March 2019 - Present",
         "description":"I work here as MERN Full Statck" }],
     "skills":[
       {
@@ -113,46 +107,25 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
+        "title":"Connectix",
         "category":"My Travel Blog for my post-university travels",
         "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"http://www.canadianwanderlust.com"
       },
       {
-        "title":"Fury Fighting Gear",
+        "title":"Leafnet",
         "category":"(offline now) A fighting gear company I started",
         "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"http://www.leafnet.cc"
       }
+    
     ]
   },
   "testimonials":{
     "testimonials":[
       {
         "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "user":"Parag Piyush"
       }
     ]
   }
